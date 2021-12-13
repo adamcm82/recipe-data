@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Costco",
+        "listIngredients": [
+        {
+            "name": "Apple",
+            "isChecked": true
+        },
+        {
+            "name": "banana",
+            "isChecked": false
+        }
+        ]
+    },
+    {
+        "name": "Ralphs",
+        "listIngredients": [
+        {
+            "name": "Cereal",
+            "isChecked": false
+        },
+        {
+            "name": "Milk",
+            "isChecked": true
+        }
+        ]
+    }
+]
+
+
